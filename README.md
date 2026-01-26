@@ -28,7 +28,7 @@ Then use `nur.repos.rypkgs.<package-name>`.
 
 ## Packages
 
-| Package           | Description     |
-| ----------------- | --------------- |
-| `example-package` | Example package |
+| Package | Description |
+|---------|-------------|
+| `blink` | A modern Jellyfin desktop client |
 
