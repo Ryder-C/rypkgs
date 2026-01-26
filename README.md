@@ -32,4 +32,5 @@ Then use `nur.repos.rypkgs.<package-name>`.
 |---------|-------------|
 | `blink` | A modern Jellyfin desktop client |
 
-> **Note:** Packages are only tested against `nixpkgs-unstable`.
+> [!NOTE]
+> Packages are only tested against `nixpkgs-unstable`.
